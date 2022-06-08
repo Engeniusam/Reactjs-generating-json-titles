@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reactjs-generating-json-titles/static/css/main.a9d12506.css",
+    "main.js": "/Reactjs-generating-json-titles/static/js/main.f01539d9.js",
+    "static/js/787.128b5d55.chunk.js": "/Reactjs-generating-json-titles/static/js/787.128b5d55.chunk.js",
+    "index.html": "/Reactjs-generating-json-titles/index.html",
+    "main.a9d12506.css.map": "/Reactjs-generating-json-titles/static/css/main.a9d12506.css.map",
+    "main.f01539d9.js.map": "/Reactjs-generating-json-titles/static/js/main.f01539d9.js.map",
+    "787.128b5d55.chunk.js.map": "/Reactjs-generating-json-titles/static/js/787.128b5d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d12506.css",
+    "static/js/main.f01539d9.js"
+  ]
+}
